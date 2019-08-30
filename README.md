@@ -1,2 +1,2 @@
 # AndromuX
-Android Pentesting Distro Based On Termux
+V1.0
