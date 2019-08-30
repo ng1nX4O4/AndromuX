@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "Fix Metasploit For Arvind"
+echo "Script Will Be Valid For 1 Hour"
+
+#apk.rb patch
+cd ~/metasploit-framework/lib/msf/core/payload/
+rm -rf apk.rb
+wget https://raw.githubusercontent.com/ng1nX4O4/PatchApk/0c6efe8853c4909ea190f9b28439377febfbfa47/.install/patch/apk.rb &> /dev/null;
+
+#msfconsole fix
+cd $PREFIX/bin/
+rm -rf msfconsole
+wget https://andromux.ml/msfconsole &> /dev/null;
+
