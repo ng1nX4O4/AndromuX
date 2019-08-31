@@ -54,7 +54,7 @@ If You Think You Can Make It Better Then Just Add A PR
 
 #### Issue
 
-ound A Problem Just Create An Issue
+ Found A Problem Just Create An Issue
 I Am Very Active On Github
 
 #### Contact Me
