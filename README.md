@@ -30,14 +30,15 @@
 1. Golang Based Tools (Don't Work Perfectly)
 2. Wireless Hacking (Root Required)
 3. Packet Crafting Tools (Root Required)
-
 4. Network Hacking Tools (Root Required)
+
+
 
 #### How To Install
 
 ```
 git clone http://github.com/ng1nx4O4/AndromuX
-cd AmdromuX
+cd AndromuX
 bash setup --install
 ```
 
@@ -52,7 +53,8 @@ You Can Find Information About A.S.P.M [Here](http://aspm.andromux.ml)
 If You Think You Can Make It Better Then Just Add A PR
 
 #### Issue
-Found A Problem Just Create An Issue
+
+ound A Problem Just Create An Issue
 I Am Very Active On Github
 
 #### Contact Me
