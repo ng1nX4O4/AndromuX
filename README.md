@@ -42,12 +42,6 @@ cd AndromuX
 bash setup --install
 ```
 
-
-**AndromuX Has It's Own Package Manager Called A.S.P.M**
-
-You Can Find Information About A.S.P.M [Here](http://aspm.andromux.ml)
-
-
 #### Patch And Suggestions
 
 If You Think You Can Make It Better Then Just Add A PR
